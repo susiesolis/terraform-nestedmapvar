@@ -9,4 +9,4 @@ project_config = {
 		project_id = "project1"
 	}
 }
-credential_path = "./terraform-enterprise.json"
+credential_path = "terraform-enterprise.json"
