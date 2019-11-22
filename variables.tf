@@ -3,6 +3,4 @@ variable project_config {
   type        = "map"
   default     = {}
 }
-variable credential_path {
-  type    = string
-}
+
